@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Catagory Menu renders correctly 1`] = `
+<div
+  className="mb-4 pe-4 nav nav-pills"
+  onKeyDown={[Function]}
+>
+  <div
+    className="nav-item"
+  >
+    <button
+      className="nav-link"
+      data-rb-event-key={null}
+      disabled={false}
+      onClick={[Function]}
+    >
+      Grocery
+    </button>
+  </div>
+  <div
+    className="nav-item"
+  >
+    <button
+      className="nav-link"
+      data-rb-event-key={null}
+      disabled={false}
+      onClick={[Function]}
+    >
+      Mobiles
+    </button>
+  </div>
+  <div
+    className="nav-item"
+  >
+    <button
+      className="nav-link"
+      data-rb-event-key={null}
+      disabled={false}
+      onClick={[Function]}
+    >
+      Fashion
+    </button>
+  </div>
+  <div
+    className="nav-item"
+  >
+    <button
+      className="nav-link"
+      data-rb-event-key={null}
+      disabled={false}
+      onClick={[Function]}
+    >
+      Electronics
+    </button>
+  </div>
+  <div
+    className="nav-item"
+  >
+    <button
+      className="nav-link"
+      data-rb-event-key={null}
+      disabled={false}
+      onClick={[Function]}
+    >
+      Appliances
+    </button>
+  </div>
+</div>
+`;

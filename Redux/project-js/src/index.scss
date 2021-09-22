@@ -1,0 +1,31 @@
+$font-family-sans-serif: 'Roboto', sans-serif;
+
+@import '~bootstrap/scss/bootstrap';
+
+.profile {
+  .show {
+    right: 2rem;
+  }
+  .dropdown-toggle {
+    display: inline-block;
+    font-size: 1em;
+    width: 2.5em;
+    height: 2.5em;
+    line-height: 2.5em;
+    text-align: center;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.55);
+    vertical-align: middle;
+    margin: 0 1em 0 0;
+    color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+    padding: 0;
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.75);
+    }
+
+    &:after {
+      display: none;
+    }
+  }
+}

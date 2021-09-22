@@ -1,0 +1,32 @@
+SonarQube plugins:
+  - Python Code Quality and Security 3.4.1.8066 (python)
+  - CSS Code Quality and Security 1.4.2.2002 (cssfamily)
+  - Go Code Quality and Security 1.8.3.2219 (go)
+  - JaCoCo 1.1.1.1157 (jacoco)
+  - Kotlin Code Quality and Security 1.8.3.2219 (kotlin)
+  - JavaScript/TypeScript Code Quality and Security 7.4.2.15501 (javascript)
+  - Ruby Code Quality and Security 1.8.3.2219 (ruby)
+  - Scala Code Quality and Security 1.8.3.2219 (sonarscala)
+  - C# Code Quality and Security 8.22.0.31243 (csharp)
+  - Java Code Quality and Security 6.15.1.26025 (java)
+  - HTML Code Quality and Security 3.4.0.2754 (web)
+  - Flex Code Quality and Security 2.6.1.2564 (flex)
+  - XML Code Quality and Security 2.2.0.2973 (xml)
+  - PHP Code Quality and Security 3.17.0.7439 (php)
+  - VB.NET Code Quality and Security 8.22.0.31243 (vbnet)
+Global server settings:
+  - sonar.core.id=92D88F0A-AXnmIvM3a3MhFuvOa1EI
+  - sonar.core.startTime=2021-09-01T16:09:36+0530
+  - sonar.forceAuthentication=true
+  - sonar.scm.disabled=true
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9000
+  - sonar.login=******
+  - sonar.projectBaseDir=C:\Users\inpchakrob\Documents\PROJECTS\LERN\Technical-Trainings-for-Huemen\reactjs-redux-intermediate-august\Redux\project-js
+  - sonar.projectKey=react
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=4.6.2.2472
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=.
+  - sonar.working.directory=C:\Users\inpchakrob\Documents\PROJECTS\LERN\Technical-Trainings-for-Huemen\reactjs-redux-intermediate-august\Redux\project-js\.scannerwork

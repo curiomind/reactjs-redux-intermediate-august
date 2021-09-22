@@ -1,0 +1,5 @@
+# Redux + Plain JS template
+npx create-react-app project-js --template redux
+
+# Redux + TypeScript template
+npx create-react-app project-ts --template redux-typescript

@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "coenraads.bracket-pair-colorizer",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "esbenp.prettier-vscode",
+    "sonarsource.sonarlint-vscode",
+    "stylelint.vscode-stylelint",
+    "jpoissonnier.vscode-styled-components"
+  ]
+}
